@@ -35,13 +35,6 @@ The Footwear Store Management System is a desktop application developed using VB
 3. Set up the database connection to Microsoft SQL Server.
 4. Build and run the application.
 
-## Screenshots
-
-![Dashboard](screenshots/dashboard.png)
-*Dashboard showing total revenue and user statistics.*
-
-![Inventory Management](screenshots/inventory.png)
-*Inventory management interface for adding and updating footwear items.*
 
 ## Contributing
 
