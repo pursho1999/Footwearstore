@@ -1,0 +1,881 @@
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbprojAssemblyReference.cache
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\Vb Project\Shoe Store\Shoe Store\bin\Debug\Guna.UI2.dll
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Guna.UI2.dll
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbprojAssemblyReference.cache
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\Vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbprojAssemblyReference.cache
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Reports.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb.mdf
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb_log.ldf
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\EnvDTE.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\stdole.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.MSXML.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbprojAssemblyReference.cache
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repBill.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Reports.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.cache
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.compiled
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repUser.resources
+D:\VB\Sell\vb Project - SysRest edirs - Copy\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repItem.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb.mdf
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb_log.ldf
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\EnvDTE.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\stdole.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.MSXML.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbprojAssemblyReference.cache
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repBill.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repItem.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Reports.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repUser.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.cache
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.compiled
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\VB\Sell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb.mdf
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb_log.ldf
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\EnvDTE.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\stdole.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.AssemblyReference.cache
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repBill.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repItem.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Reports.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repUser.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.cache
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\RdlCompile.compiled
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\Projects\aa\VB\Final cell\vb Project - SysRest edirs Checkpoint\Vb Project\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.AssemblyReference.cache
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AboutUs.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.AdminLogin.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Bills.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Dashboard.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repBill.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repItem.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Reports.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.repUser.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Users.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Shoe.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Login.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe_Store.Resources.resources
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.GenerateResource.cache
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe.licenses
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CoreCompileInputs.cache
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.exe
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.pdb
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb.mdf
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\FootWearVbDb_log.ldf
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe.config
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Shoe Store.exe
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Shoe Store.pdb
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Shoe Store.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.Licensing.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\EnvDTE.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\stdole.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Microsoft.MSXML.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.Charts.WinForms.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.Dataviz.WinForms.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projects\ShowCase\Footwear Store Management System\Shoe Store\Shoe Store\Shoe Store\obj\Debug\Shoe Store.vbproj.CopyComplete

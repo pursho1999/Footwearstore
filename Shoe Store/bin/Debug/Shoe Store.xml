@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Shoe Store
+</name>
+</assembly>
+<members>
+<member name="T:Shoe_Store.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources._1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources._2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Amount">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.budget">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.iconmonstr_dashboard_4_240">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.iconmonstr_dashboard_4_32_11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.iconmonstr_user_20_240_1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.iconmonstr_user_20_32_11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.seo_report">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Shoes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Store_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Store_Logo111pngsmol">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.Store_Logopngq">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.userlisy">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Shoe_Store.My.Resources.Resources.userxx">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.BillTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.ShoeTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.UserTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.BillTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.ShoeTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.UserTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.BillTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.ShoeTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSet.UserTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.BillTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.ShoeTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.UserTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Shoe_Store.FootWearVbDbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Shoe_Store.FootWearVbDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Shoe_Store.FootWearVbDbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.UpdateAll(Shoe_Store.FootWearVbDbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Shoe_Store.FootWearVbDbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.BillTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.ShoeTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.UserTblDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.BillTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.ShoeTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.UserTblRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.BillTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.ShoeTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWears.UserTblRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.BillTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.ShoeTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.UserTblTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Shoe_Store.RepFootWears,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.UpdateInsertedRows(Shoe_Store.RepFootWears,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.UpdateDeletedRows(Shoe_Store.RepFootWears,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.UpdateAll(Shoe_Store.RepFootWears)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Shoe_Store.RepFootWearsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
