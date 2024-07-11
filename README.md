@@ -48,9 +48,8 @@ The Footwear Store Management System is a desktop application developed using VB
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
 ## License
-
-This project is licensed under the [MIT License](LICENSE).
-
+N/A
 ---
 
 This README provides an overview of the project, its features, installation instructions, screenshots, and guidance for contributions, adhering to standard GitHub repository documentation practices. Adjust as needed to match specific details and preferences of the project.
+
